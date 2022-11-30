@@ -1,0 +1,101 @@
+body{
+    background-color:rgb(208, 224, 224);
+}
+
+.homeMenu{
+    width:800px;
+    background-color:white;
+    align-content:center;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-bottom:5px solid rgb(71, 71, 71);
+}
+
+.footer{
+    align-content:center;
+    text-align:center;
+    background-color:white;
+    width:800px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.img_resize{
+    height:200px;
+    width:200px;
+    padding:20px;
+}
+
+a{
+    color:#fff;
+}
+
+/* Checking purpose only */
+table,td{
+    margin-left:10%;
+}
+
+.label_spacing{
+    width:159px;
+    height:35px;
+    text-align:left;
+}
+
+.tab_spacing{
+    text-align:left;
+    width:130px;
+    height:40px;
+}
+
+.tab_spacing_button{
+    text-align:left;
+    width:130px;
+    height:60px;
+}
+
+.tab_spacing_button_scan{
+    text-align:right;
+    width:200px;
+    height:60px;
+}
+
+.dept_spacing{
+    width:159px;
+    height:35px;
+    text-align:right;
+}
+
+.ddl_width{
+    width:140px;
+    height:30px;
+}
+
+.deptddl_spacing,.docddl_spacing{
+    height:35px;
+    width:300px;
+}
+
+.input_styling{
+    width:290px;
+    height:30px;
+}
+
+.form{
+    align-content:center;
+    align-items:center;
+}
+
+.button_style{
+    border-radius:5px;
+    background-color:slategray;
+    color:white;
+    font-family:"Nanum Gothic";
+    font-weight:300px;
+    font-size:16pt;
+    cursor:pointer;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
